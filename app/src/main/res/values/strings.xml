@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TeacherQuizUpApp</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="home">Home</string>
+    <string name="progress">Progress</string>
+    <string name="quiz_history">Quiz History</string>
+    <string name="name">Name</string>
+    <string name="branch">Branch</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="create">Create</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="time_limit">Time Limit</string>
+    <string name="number_of_questions">Number of Questions</string>
+    <string name="date_of_quiz">Date of Quiz</string>
+    <string name="time_to_start">Time to start</string>
+    <string name="add_questions">Add Questions</string>
+    <string name="question">Question</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_1">Option 1</string>
+    <string name="correct_option_eg_1_2_3_4">Correct Option (eg. 1, 2, 3, 4)</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="questionNumber">Question %1$d of %2$d</string>
+    <string name="submit">Submit</string>
+    <string name="quiz_added_successfully">Quiz added successfully</string>
+    <string name="fill_values">Fill all the values</string>
+</resources>
